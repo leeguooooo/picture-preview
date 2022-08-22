@@ -1,5 +1,5 @@
 const vscode = require('vscode');
-const activeMenu = require('./webview.js')
+const activeMenu = require('./extension/webview.js')
 
 /**
  * @param {vscode.ExtensionContext} context
